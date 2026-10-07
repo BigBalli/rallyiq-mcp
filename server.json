@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.bigballi/rallyiq",
+  "title": "RallyIQ",
+  "description": "Tennis game plans, scouting reports and match breakdowns from shot-by-shot charted matches.",
+  "version": "1.0.0",
+  "websiteUrl": "https://bigballi.com/RallyIQ/connect",
+  "repository": {
+    "url": "https://github.com/BigBalli/rallyiq-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://bigballi.com/RallyIQ/assets/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://bigballi.com/RallyIQ/mcp"
+    }
+  ]
+}
