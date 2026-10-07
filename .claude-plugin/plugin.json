@@ -1,0 +1,17 @@
+{
+  "name": "rallyiq",
+  "displayName": "RallyIQ",
+  "version": "1.0.0",
+  "description": "Tennis scouting in Claude from shot-by-shot charted ATP and WTA matches: game plans for a matchup, player scouting reports, why a match went the way it did and tactical leaderboards, through the RallyIQ MCP server, plus a skill that knows how to read the numbers.",
+  "author": {
+    "name": "BigBalli",
+    "email": "g@bigballi.com",
+    "url": "https://bigballi.com"
+  },
+  "homepage": "https://bigballi.com/RallyIQ/connect",
+  "repository": "https://github.com/BigBalli/rallyiq-mcp",
+  "privacyPolicyUrl": "https://bigballi.com/RallyIQ/privacy",
+  "supportUrl": "https://bigballi.com/RallyIQ/connect",
+  "license": "MIT",
+  "keywords": ["tennis", "scouting", "match-charting", "game-plan", "atp", "wta", "sports", "analytics"]
+}

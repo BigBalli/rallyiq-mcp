@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rallyiq": {
+      "type": "http",
+      "url": "https://bigballi.com/RallyIQ/mcp"
+    }
+  }
+}

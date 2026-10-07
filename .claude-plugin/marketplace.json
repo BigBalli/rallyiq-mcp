@@ -1,0 +1,15 @@
+{
+  "name": "rallyiq",
+  "description": "The RallyIQ plugin: tennis scouting from shot-by-shot charted matches in Claude.",
+  "owner": {
+    "name": "BigBalli",
+    "email": "g@bigballi.com"
+  },
+  "plugins": [
+    {
+      "name": "rallyiq",
+      "source": "./",
+      "description": "Game plans, player scouting reports, match breakdowns and tactical leaderboards from shot-by-shot charted ATP and WTA matches, through the RallyIQ MCP server."
+    }
+  ]
+}
